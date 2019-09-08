@@ -1,6 +1,3 @@
-_(Udacity: Data Engineering Nano Degree) | jukka.kansanaho@gmail.com | 2019-04-21_
-_This project is a part of [Udacity's Data Engineer Nano Degree](https://eu.udacity.com/course/data-engineer-nanodegree--nd027)._
-
 # PROJECT-2: Data Modelling with Apache Cassandra
 
 ## Getting Started
