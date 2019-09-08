@@ -1,6 +1,3 @@
-_(Udacity: Data Engineering Nano Degree) | jukka.kansanaho@gmail.com | 2019-05-04_
-_This project is a part of [Udacity's Data Engineer Nano Degree](https://eu.udacity.com/course/data-engineer-nanodegree--nd027)._
-
 # PROJECT-3: Data Warehouse
 
 ## Quick start
